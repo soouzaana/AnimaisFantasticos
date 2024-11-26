@@ -22,7 +22,14 @@ O projeto "Animais Fantasticos" utiliza JavaScript para criar animações intera
 
 ## 📱 Funcionalidades
 
-- Além de exbir informações sobre alguns animais, a tela apresenta funcionalidades de _navegação por tabs_, _accordion list_, _scroll suave_, _animação ao scroll_ e _modal de login_.
+Além de exbir informações sobre alguns animais, a tela apresenta funcionalidades de:
+- _Navegação por tabs_;
+- _Accordion list_;
+- _Scroll suave_;
+- _Animação ao scroll_;
+- _Modal de login_;
+- _Tooltip no mapa_;
+- _Dropdown no menu (na seção Sobre)_;
 
 ## 👩🏻‍💻 Tecnologias Utilizadas
 
