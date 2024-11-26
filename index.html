@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +9,6 @@
   <script>document.documentElement.className += ' js';</script>
   <link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
-
 <body>
   <div class="grid-container">
     <nav class="menu" data-menu="suave">
@@ -50,7 +48,7 @@
             por um focinho comprido e uma cauda longa e peluda.</p>
           <p>Também apresentam como particularidade suas pupilas ovais, semelhantes às pupilas verticais dos felídeos.</p>
         </section>
-
+        
         <section data-anime="show-right">
           <h2>Esquilo</h2>
           <p>As raposas são animais mamíferos e onívoros pertencentes à família Canidae. São vulpídeos de porte médio, caracterizados
@@ -118,7 +116,7 @@
 
     <section class="grid-section contato" data-anime="scroll" id="contato">
       <h1 class="titulo">Contato</h1>
-      <div class="mapa">
+      <div class="mapa" data-tooltip aria-label="Endereço próximo ao estacionamento.">
         <img src="img/mapa.png">
       </div>
       <ul class="dados">
@@ -133,22 +131,19 @@
       <p>Todos os direitos reservados.</p>
     </footer>
   </div>
-  
+
   <section class="modal-container" data-modal="container">
     <div class="modal">
-      <button class="fechar" data-modal="fechar">X</button>
+      <button data-modal="fechar" class="fechar">X</button>
       <form action="">
         <label for="email">Email</label>
         <input type="text" for="email" id="email">
-
         <label for="senha">Senha</label>
         <input type="password" for="senha" id="senha">
-
         <button type="submit">Entrar</button>
       </form>
     </div>
   </section>
-  <script type="module" src="js/script.js"></script>
+  <script type="module" src="js/script.js"></script>  
 </body>
-
 </html>
