@@ -8,10 +8,12 @@ export default function initAnimacaoScroll() {
       sections.forEach((section) => {
         const sectionTop = section.getBoundingClientRect().top; // --> relação do elemento e o topo
         const isSectionVisible = sectionTop - windowMetade < 0; // --> fazer com que apareça a transição em uma determinada parte da tela
-        if (isSectionVisible)
+        if (isSectionVisible){
           // se isSectiorVisible == true, ativa a função
-          section.classList.add("ativo");
-        else section.classList.remove("ativo");
+          section.classList.add("ativo");}
+        else if(section.classList.contains("ativo")){
+          section.classList.remove("ativo");
+        }
       });
     }
     animaScroll();

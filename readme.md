@@ -31,6 +31,7 @@ Além de exbir informações sobre alguns animais, a tela apresenta funcionalida
 - _Tooltip no mapa_;
 - _Dropdown no menu (na seção Sobre)_;
 - _Menu mobile_;
+- _Animação de números_;
 
 ## 👩🏻‍💻 Tecnologias Utilizadas
 
