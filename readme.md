@@ -37,6 +37,7 @@ Além de exbir informações sobre alguns animais, a tela apresenta funcionalida
 - _Dropdown no menu (na seção Sobre)_;
 - _Menu mobile_;
 - _Animação de números_;
+- _Horário de funcionamento interativo (com feedback de cor, de acordo com o horário atual)_;
 
 ## 👩🏻‍💻 Tecnologias Utilizadas
 
