@@ -2,10 +2,15 @@
 
 Este é um projeto desenvolvido durante o curso "JavaScript Completo ES6" na plataforma **Origamid**. Os créditos vão para a plataforma e para o professor **André Rafael**.
 
-<p><img src="img/AnimaisFantasticosTela.png"><br>
-<p><img src="img/AnimaisFantasticosTela2.png"><br>
-<p><img src="img/AnimaisFantasticosTela3.png"><br>
-Demonstração do projeto
+<p><img src="img/ImagensReadme/Tela1.png"><br>
+<p><img src="img/ImagensReadme/Tela2.png"><br>
+<p><img src="img/ImagensReadme/Tela3.png"><br>
+<p><img src="img/ImagensReadme/Tela4.png"><br>
+Demonstrações do projeto
+<p><img src="img/ImagensReadme/TelaModal.png"><br>
+Demonstração do modal
+<p><img src="img/ImagensReadme/TelaMenuMobile.png"><br>
+Demonstração do menu mobile
 
 ## 📚 Tabela de Conteúdos
 
